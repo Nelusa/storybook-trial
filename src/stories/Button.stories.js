@@ -14,7 +14,7 @@ export default {
 export const Primary = {
   args: {
     primary: true,
-    label: "Button new",
+    label: "Button",
   },
   parameters: {
     design: {
