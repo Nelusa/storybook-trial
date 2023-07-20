@@ -14,7 +14,7 @@ export default {
 export const Primary = {
   args: {
     primary: true,
-    label: "Button",
+    label: "Button new",
   },
   parameters: {
     design: {
@@ -26,7 +26,7 @@ export const Primary = {
 
 export const Secondary = {
   args: {
-    label: "Button new",
+    label: "Button",
   },
 };
 
